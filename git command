@@ -1,0 +1,49 @@
+ 1  apt install git
+    2  git version
+    3  pwd
+    4  mkdir Project1
+    5  cd Project1/
+    6  pwd
+    7  ls -l
+    8  ls -la
+    9  gitinit
+   10  git init
+   11  ls -la
+   12  cd ..
+   13  mkdir Project2
+   14  cd Project2
+   15  ls -la
+   16  git clone https://github.com/raushan8586/raushan_simplilearn_repo.git
+   17  ls -l
+   18  ls -la
+   19  cd raushan_simplilearn_repo/
+   20  ls -la
+   21  pwd
+   22  cd ..
+   23  ls -la
+   24  cd ../Project1
+   25  pwd
+   26  ls -la
+   27  apt install git
+   28  git version
+   29  mkdir project1
+   30  pwd
+   31  cd Project1/
+   32  pwd
+   33  ls -l
+   34  ls -la
+   35  history
+   36  clear
+   37  touch sample1.txt
+   38  vi sample1.txt
+   39  cat sample1.txt
+   40  git add sample1.txt
+   41  git status
+   42  git commit -m"first commit"
+   43  git status
+   44  git remote add origin ेhttps://github.com/raushan8586/raushan_simplilearn_repo.git
+   45  git remote -v
+   46  git push origin main
+   47  git push origin master
+   48  git push origin https://github.com/KIRTI-CLOUD/clone-demo.git master
+   49  history
